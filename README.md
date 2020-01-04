@@ -1,5 +1,10 @@
 A [Giter8][g8] template used for my scala projects
 
+## Usage
+```shell-script
+sbt new bvkatwijk/scala-seed.g8
+```
+
 Template license
 ----------------
 Written in 2020 by Boris van Katwijk bvkatwijk@gmail.com
