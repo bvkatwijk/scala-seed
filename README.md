@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/bvkatwijk/scala-seed.g8.svg?branch=master)](https://travis-ci.org/bvkatwijk/scala-seed.g8)
+
 A [Giter8][g8] template used for my scala projects
 
 ## Usage
