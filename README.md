@@ -1,9 +1,8 @@
-A [Giter8][g8] template for ...!
+A [Giter8][g8] template used for my scala projects
 
 Template license
 ----------------
 Written in 2020 by Boris van Katwijk bvkatwijk@gmail.com
-[other author/contributor lines as appropriate]
 
 To the extent possible under law, the author(s) have dedicated all copyright and related
 and neighboring rights to this template to the public domain worldwide.
