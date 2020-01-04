@@ -1,3 +1,3 @@
-class MainSpec extends WordSpec with Matchers {
-  
+class MainSpec {
+
 }
