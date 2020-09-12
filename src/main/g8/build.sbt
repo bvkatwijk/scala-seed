@@ -1,5 +1,5 @@
-ThisBuild / organization := "org.bvkatwijk"
-ThisBuild / scalaVersion := "2.12.8"
+ThisBuild / organization := "$apex$.$username$"
+ThisBuild / scalaVersion := "$scala_version$"
 
 lazy val root = project
   .in(file("."))
