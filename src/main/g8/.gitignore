@@ -1,5 +1,20 @@
+*.class
+*.log
+
+# IDE Specific Files
+.cache*
+.classpath
+.project
+.settings
 target/
+/bin/
+.idea
+*.iml
+
+# SBT
+project/project
+.sbt
+.ivy2
 boot/
 lib_managed/
 src_managed/
-project/plugins/project/
