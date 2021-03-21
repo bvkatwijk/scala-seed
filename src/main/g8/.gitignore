@@ -18,3 +18,10 @@ project/project
 boot/
 lib_managed/
 src_managed/
+.bsp/sbt.json
+
+# OS files
+.DS_Store
+
+# Sensitive files
+.env
